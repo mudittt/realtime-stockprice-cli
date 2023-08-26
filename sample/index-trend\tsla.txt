@@ -1,0 +1,53 @@
+{
+  "maxAge": 1,
+  "symbol": "SP5",
+  "peRatio": {
+    "raw": 16.7377,
+    "fmt": "16.74"
+  },
+  "pegRatio": {
+    "raw": -1.65469,
+    "fmt": "-1.65"
+  },
+  "estimates": [
+    {
+      "period": "0q",
+      "growth": {
+        "raw": 0.048,
+        "fmt": "0.05"
+      }
+    },
+    {
+      "period": "+1q",
+      "growth": {
+        "raw": 0.096999995,
+        "fmt": "0.10"
+      }
+    },
+    {
+      "period": "0y",
+      "growth": {
+        "raw": 0.006,
+        "fmt": "0.01"
+      }
+    },
+    {
+      "period": "+1y",
+      "growth": {
+        "raw": 0.105,
+        "fmt": "0.10"
+      }
+    },
+    {
+      "period": "+5y",
+      "growth": {
+        "raw": 0.0826446,
+        "fmt": "0.08"
+      }
+    },
+    {
+      "period": "-5y",
+      "growth": {}
+    }
+  ]
+}

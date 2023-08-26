@@ -1,0 +1,249 @@
+{
+  "symbol": "AAPL",
+  "dividendDate": {
+    "raw": 1692230400,
+    "fmt": "2023-08-16",
+    "longFmt": "2023-08-16T20:00"
+  },
+  "twoHundredDayAverageChangePercent": {
+    "raw": 0.10139466,
+    "fmt": "10.14%"
+  },
+  "averageAnalystRating": "2.0 - Buy",
+  "fiftyTwoWeekLowChangePercent": {
+    "raw": 0.42908916,
+    "fmt": "42.91%"
+  },
+  "language": "en-US",
+  "preMarketChangePercent": {
+    "raw": -0.01972593,
+    "fmt": "-0.02%"
+  },
+  "dividendYield": {
+    "raw": 0.54,
+    "fmt": "0.54%"
+  },
+  "earningsTimestampEnd": {
+    "raw": 1698667200,
+    "fmt": "2023-10-30",
+    "longFmt": "2023-10-30T08:00"
+  },
+  "regularMarketDayRange": {
+    "raw": "177.0517 - 179.47",
+    "fmt": "177.05 - 179.47"
+  },
+  "epsForward": {
+    "raw": 6.61,
+    "fmt": "6.61"
+  },
+  "regularMarketDayHigh": {
+    "raw": 179.47,
+    "fmt": "179.47"
+  },
+  "twoHundredDayAverageChange": {
+    "raw": 16.33609,
+    "fmt": "16.34"
+  },
+  "twoHundredDayAverage": {
+    "raw": 161.1139,
+    "fmt": "161.11"
+  },
+  "askSize": {
+    "raw": 10,
+    "fmt": "10",
+    "longFmt": "10"
+  },
+  "bookValue": {
+    "raw": 3.852,
+    "fmt": "3.85"
+  },
+  "fiftyTwoWeekHighChange": {
+    "raw": -20.779999,
+    "fmt": "-20.78"
+  },
+  "marketCap": {
+    "raw": 2791057915904,
+    "fmt": "2.791T",
+    "longFmt": "2,791,057,915,904"
+  },
+  "fiftyTwoWeekRange": {
+    "raw": "124.17 - 198.23",
+    "fmt": "124.17 - 198.23"
+  },
+  "fiftyDayAverageChange": {
+    "raw": -9.910004,
+    "fmt": "-9.91"
+  },
+  "firstTradeDateMilliseconds": 345479400000,
+  "exchangeDataDelayedBy": 0,
+  "averageDailyVolume3Month": {
+    "raw": 57429250,
+    "fmt": "57.429M",
+    "longFmt": "57,429,250"
+  },
+  "dividendRate": {
+    "raw": 0.96,
+    "fmt": "0.96"
+  },
+  "fiftyTwoWeekChangePercent": {
+    "raw": 1.6614199,
+    "fmt": "1.66%"
+  },
+  "trailingAnnualDividendRate": {
+    "raw": 0.93,
+    "fmt": "0.93"
+  },
+  "fiftyTwoWeekLow": {
+    "raw": 124.17,
+    "fmt": "124.17"
+  },
+  "regularMarketVolume": {
+    "raw": 43512030,
+    "fmt": "43.512M",
+    "longFmt": "43,512,030"
+  },
+  "market": "us_market",
+  "quoteSourceName": "Nasdaq Real Time Price",
+  "messageBoardId": "finmb_24937",
+  "priceHint": 2,
+  "sourceInterval": 15,
+  "exchange": "NMS",
+  "regularMarketDayLow": {
+    "raw": 177.0517,
+    "fmt": "177.05"
+  },
+  "shortName": "Apple Inc.",
+  "region": "US",
+  "fiftyDayAverageChangePercent": {
+    "raw": -0.052892845,
+    "fmt": "-5.29%"
+  },
+  "preMarketTime": {
+    "raw": 1692190035,
+    "fmt": "8:47AM EDT"
+  },
+  "fullExchangeName": "NasdaqGS",
+  "earningsTimestampStart": {
+    "raw": 1698231540,
+    "fmt": "2023-10-25",
+    "longFmt": "2023-10-25T06:59"
+  },
+  "financialCurrency": "USD",
+  "displayName": "Apple",
+  "gmtOffSetMilliseconds": -14400000,
+  "regularMarketOpen": {
+    "raw": 178.88,
+    "fmt": "178.88"
+  },
+  "regularMarketTime": {
+    "raw": 1692129601,
+    "fmt": "4:00PM EDT"
+  },
+  "regularMarketChangePercent": {
+    "raw": -1.1200322,
+    "fmt": "-1.12%"
+  },
+  "trailingAnnualDividendYield": {
+    "raw": 0.005182213,
+    "fmt": "0.01%"
+  },
+  "quoteType": "EQUITY",
+  "averageDailyVolume10Day": {
+    "raw": 64710550,
+    "fmt": "64.711M",
+    "longFmt": "64,710,550"
+  },
+  "fiftyTwoWeekLowChange": {
+    "raw": 53.28,
+    "fmt": "53.28"
+  },
+  "fiftyTwoWeekHighChangePercent": {
+    "raw": -0.104827724,
+    "fmt": "-10.48%"
+  },
+  "typeDisp": "Equity",
+  "trailingPE": {
+    "raw": 30.127335,
+    "fmt": "30.13"
+  },
+  "tradeable": false,
+  "currency": "USD",
+  "preMarketPrice": {
+    "raw": 177.415,
+    "fmt": "177.41"
+  },
+  "sharesOutstanding": {
+    "raw": 15728700416,
+    "fmt": "15.729B",
+    "longFmt": "15,728,700,416"
+  },
+  "fiftyTwoWeekHigh": {
+    "raw": 198.23,
+    "fmt": "198.23"
+  },
+  "regularMarketPreviousClose": {
+    "raw": 179.46,
+    "fmt": "179.46"
+  },
+  "exchangeTimezoneName": "America/New_York",
+  "regularMarketChange": {
+    "raw": -2.0100098,
+    "fmt": "-2.01"
+  },
+  "bidSize": {
+    "raw": 10,
+    "fmt": "10",
+    "longFmt": "10"
+  },
+  "priceEpsCurrentYear": {
+    "raw": 29.233936,
+    "fmt": "29.23"
+  },
+  "cryptoTradeable": false,
+  "fiftyDayAverage": {
+    "raw": 187.36,
+    "fmt": "187.36"
+  },
+  "exchangeTimezoneShortName": "EDT",
+  "epsCurrentYear": {
+    "raw": 6.07,
+    "fmt": "6.07"
+  },
+  "customPriceAlertConfidence": "HIGH",
+  "regularMarketPrice": {
+    "raw": 177.45,
+    "fmt": "177.45"
+  },
+  "marketState": "PRE",
+  "preMarketChange": {
+    "raw": -0.035003662,
+    "fmt": "-0.04"
+  },
+  "forwardPE": {
+    "raw": 26.845688,
+    "fmt": "26.85"
+  },
+  "earningsTimestamp": {
+    "raw": 1691096400,
+    "fmt": "2023-08-03",
+    "longFmt": "2023-08-03T17:00"
+  },
+  "ask": {
+    "raw": 177.73,
+    "fmt": "177.73"
+  },
+  "epsTrailingTwelveMonths": {
+    "raw": 5.89,
+    "fmt": "5.89"
+  },
+  "bid": {
+    "raw": 177.48,
+    "fmt": "177.48"
+  },
+  "priceToBook": {
+    "raw": 46.06698,
+    "fmt": "46.07"
+  },
+  "triggerable": true,
+  "longName": "Apple Inc."
+}

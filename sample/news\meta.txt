@@ -1,0 +1,216 @@
+{
+  "0": {
+    "uuid": "8fe2b9e8-b0f6-3fef-8620-87814a747ea1",
+    "title": "Dow Jones Futures: S&P 500 Breaks Key Level; Tesla Falls On New Price Cuts",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/8fe2b9e8-b0f6-3fef-8620-87814a747ea1/dow-jones-futures%3A-s%26p-500.html",
+    "providerPublishTime": 1692188423,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/S2TMBdc8mH_s.4H2Yq8tRQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f30603dbc23ed1fa401a6ca6848933f4",
+          "width": 945,
+          "height": 533,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/L7jCIzZpLgN251ViBMOIag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f30603dbc23ed1fa401a6ca6848933f4",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "^GSPC",
+      "COMP",
+      "NVDA",
+      "^DJI",
+      "GOOGL",
+      "META",
+      "CAVA"
+    ]
+  },
+  "1": {
+    "uuid": "6bbd2165-455e-3cad-87ba-28eec01a348b",
+    "title": "Column: It's not just Zoom: How websites and apps harvest your data to build AI",
+    "publisher": "LA Times",
+    "link": "https://finance.yahoo.com/news/column-not-just-zoom-websites-110037464.html",
+    "providerPublishTime": 1692183637,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/YPGYVyzahEvN6R3ril9ADQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/e32e721d9e66c4870e3305b0f3c8380a",
+          "width": 840,
+          "height": 560,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/deihXuV3KtooU4qlxj6mow--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/la_times_articles_853/e32e721d9e66c4870e3305b0f3c8380a",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "AAPL",
+      "GOOGL",
+      "META"
+    ]
+  },
+  "2": {
+    "uuid": "2314e60c-d1e4-3052-8f92-4d48047b5615",
+    "title": "Musk's X delays access to content on Reuters, NY Times, social media rivals",
+    "publisher": "Reuters",
+    "link": "https://finance.yahoo.com/news/musks-x-delays-access-content-235831539.html",
+    "providerPublishTime": 1692143911,
+    "type": "STORY",
+    "relatedTickers": [
+      "META"
+    ]
+  },
+  "3": {
+    "uuid": "53f3dd2e-0e80-370b-9c5f-446b53963dc7",
+    "title": "Vornado Explores Possible Sale of Manhattan’s Farley Building",
+    "publisher": "Bloomberg",
+    "link": "https://finance.yahoo.com/news/vornado-explores-possible-sale-manhattan-211222267.html",
+    "providerPublishTime": 1692133942,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/CSsSmZnW45udoCr.oEUppQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/50e018b9547b3d96f0f94fb0980e489b",
+          "width": 2000,
+          "height": 1334,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Eeq5aIIJ1ol1ivz_GMeIAQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/50e018b9547b3d96f0f94fb0980e489b",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "VNO",
+      "NMRK",
+      "META"
+    ]
+  },
+  "4": {
+    "uuid": "39e3c876-3cd1-38c9-a1f3-95d779be5628",
+    "title": "Ray Dalio's Q2 2023 Portfolio Update: Key Trades and Holdings",
+    "publisher": "GuruFocus.com",
+    "link": "https://finance.yahoo.com/news/ray-dalios-q2-2023-portfolio-201517331.html",
+    "providerPublishTime": 1692130517,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2_8L0mLicC7yKE1c5Wqr7A--~B/aD05MDI7dz0xMjQyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/73fff0b215786c31a8aefaa4e00ad707",
+          "width": 1242,
+          "height": 902,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/zO9qOSVQm9qskLco8cZsNg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/73fff0b215786c31a8aefaa4e00ad707",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "META",
+      "^GSPC"
+    ]
+  },
+  "5": {
+    "uuid": "811d0ab0-b169-35a1-bc36-7f9fb8d13ce7",
+    "title": "Chris Davis' Firm Trims Alphabet, Meta in the 2nd Quarter",
+    "publisher": "GuruFocus.com",
+    "link": "https://finance.yahoo.com/news/chris-davis-firm-trims-alphabet-200751562.html",
+    "providerPublishTime": 1692130071,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/WiYVWxZ9jSHVV0Hi6bLj5g--~B/aD05MDI7dz0xMjQyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/447634ba7acc8177f84169052581def1",
+          "width": 1242,
+          "height": 902,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/WPCGsHeRDmIX7IiUcNa8iQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/447634ba7acc8177f84169052581def1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "GOOGL",
+      "META"
+    ]
+  },
+  "6": {
+    "uuid": "0189325f-b224-3f91-892e-d7ccfbc09b0a",
+    "title": "Frank Sands' Firm Enters Meta Holding, Boosts Microsoft and Nvidia",
+    "publisher": "GuruFocus.com",
+    "link": "https://finance.yahoo.com/news/frank-sands-firm-enters-meta-160158229.html",
+    "providerPublishTime": 1692115318,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/7VzWcLA6XXkkpuzDw0ltlw--~B/aD05MDI7dz0xMjQyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/f06355f73ca622e5245d58508d370af1",
+          "width": 1242,
+          "height": 902,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4NLbybtOEyCmXOfcYxBVpw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/us.finance.gurufocus/f06355f73ca622e5245d58508d370af1",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "NVDA",
+      "MSFT",
+      "META"
+    ]
+  },
+  "7": {
+    "uuid": "12483290-87ae-30f4-8c63-69b36ca4e239",
+    "title": "15 Most Popular Social Networks In The World",
+    "publisher": "Insider Monkey",
+    "link": "https://finance.yahoo.com/news/15-most-popular-social-networks-152211814.html",
+    "providerPublishTime": 1692112931,
+    "type": "STORY",
+    "thumbnail": {
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/bLDKWnaBOjoCRaq94PeuKg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d2b2323f169ed1f3c41e03fb6306fda0",
+          "width": 750,
+          "height": 500,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/97lmz7.7ytddP3q0waihrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d2b2323f169ed1f3c41e03fb6306fda0",
+          "width": 140,
+          "height": 140,
+          "tag": "140x140"
+        }
+      ]
+    },
+    "relatedTickers": [
+      "META"
+    ]
+  }
+}

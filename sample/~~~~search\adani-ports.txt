@@ -1,0 +1,37 @@
+{
+  quotes: [
+    {
+      exchange: 'NSI',
+      shortname: 'ADANI PORT SPECIAL',
+      quoteType: 'EQUITY',
+      symbol: 'ADANIPORTS.NS',
+      index: 'quotes',
+      score: 20406,
+      typeDisp: 'Equity',
+      longname: 'Adani Ports and Special Economic Zone Limited',
+      exchDisp: 'NSE',
+      sector: 'Industrials',
+      sectorDisp: 'Industrials',
+      industry: 'Marine Shipping',
+      industryDisp: 'Marine Shipping',
+      dispSecIndFlag: true,
+      isYahooFinance: true
+    },
+    {
+      exchange: 'BSE',
+      shortname: 'ADANI PORTS AND SPECIAL ECONOM',
+      quoteType: 'EQUITY',
+      symbol: 'ADANIPORTS.BO',
+      index: 'quotes',
+      score: 20041,
+      typeDisp: 'Equity',
+      longname: 'Adani Ports and Special Economic Zone Limited',
+      exchDisp: 'Bombay',
+      sector: 'Industrials',
+      sectorDisp: 'Industrials',
+      industry: 'Marine Shipping',
+      industryDisp: 'Marine Shipping',
+      isYahooFinance: true
+    }
+  ]
+}

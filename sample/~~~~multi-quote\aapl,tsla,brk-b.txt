@@ -1,0 +1,717 @@
+{
+  "0": {
+    "symbol": "AAPL",
+    "dividendDate": {
+      "raw": 1692230400,
+      "fmt": "2023-08-16",
+      "longFmt": "2023-08-16T20:00"
+    },
+    "twoHundredDayAverageChangePercent": {
+      "raw": 0.10139466,
+      "fmt": "10.14%"
+    },
+    "averageAnalystRating": "2.0 - Buy",
+    "fiftyTwoWeekLowChangePercent": {
+      "raw": 0.42908916,
+      "fmt": "42.91%"
+    },
+    "language": "en-US",
+    "dividendYield": {
+      "raw": 0.54,
+      "fmt": "0.54%"
+    },
+    "preMarketChangePercent": {
+      "raw": -0.0112731885,
+      "fmt": "-0.01%"
+    },
+    "regularMarketDayRange": {
+      "raw": "177.0517 - 179.47",
+      "fmt": "177.05 - 179.47"
+    },
+    "earningsTimestampEnd": {
+      "raw": 1698667200,
+      "fmt": "2023-10-30",
+      "longFmt": "2023-10-30T08:00"
+    },
+    "epsForward": {
+      "raw": 6.61,
+      "fmt": "6.61"
+    },
+    "regularMarketDayHigh": {
+      "raw": 179.47,
+      "fmt": "179.47"
+    },
+    "twoHundredDayAverageChange": {
+      "raw": 16.33609,
+      "fmt": "16.34"
+    },
+    "twoHundredDayAverage": {
+      "raw": 161.1139,
+      "fmt": "161.11"
+    },
+    "askSize": {
+      "raw": 10,
+      "fmt": "10",
+      "longFmt": "10"
+    },
+    "bookValue": {
+      "raw": 3.852,
+      "fmt": "3.85"
+    },
+    "fiftyTwoWeekHighChange": {
+      "raw": -20.779999,
+      "fmt": "-20.78"
+    },
+    "marketCap": {
+      "raw": 2791057915904,
+      "fmt": "2.791T",
+      "longFmt": "2,791,057,915,904"
+    },
+    "fiftyTwoWeekRange": {
+      "raw": "124.17 - 198.23",
+      "fmt": "124.17 - 198.23"
+    },
+    "fiftyDayAverageChange": {
+      "raw": -9.910004,
+      "fmt": "-9.91"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 57429250,
+      "fmt": "57.429M",
+      "longFmt": "57,429,250"
+    },
+    "firstTradeDateMilliseconds": 345479400000,
+    "exchangeDataDelayedBy": 0,
+    "dividendRate": {
+      "raw": 0.96,
+      "fmt": "0.96"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0.93,
+      "fmt": "0.93"
+    },
+    "fiftyTwoWeekChangePercent": {
+      "raw": 1.6614199,
+      "fmt": "1.66%"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 124.17,
+      "fmt": "124.17"
+    },
+    "regularMarketVolume": {
+      "raw": 43512030,
+      "fmt": "43.512M",
+      "longFmt": "43,512,030"
+    },
+    "market": "us_market",
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "messageBoardId": "finmb_24937",
+    "priceHint": 2,
+    "exchange": "NMS",
+    "sourceInterval": 15,
+    "regularMarketDayLow": {
+      "raw": 177.0517,
+      "fmt": "177.05"
+    },
+    "shortName": "Apple Inc.",
+    "region": "US",
+    "fiftyDayAverageChangePercent": {
+      "raw": -0.052892845,
+      "fmt": "-5.29%"
+    },
+    "preMarketTime": {
+      "raw": 1692190206,
+      "fmt": "8:50AM EDT"
+    },
+    "fullExchangeName": "NasdaqGS",
+    "earningsTimestampStart": {
+      "raw": 1698231540,
+      "fmt": "2023-10-25",
+      "longFmt": "2023-10-25T06:59"
+    },
+    "financialCurrency": "USD",
+    "displayName": "Apple",
+    "gmtOffSetMilliseconds": -14400000,
+    "regularMarketOpen": {
+      "raw": 178.88,
+      "fmt": "178.88"
+    },
+    "regularMarketTime": {
+      "raw": 1692129601,
+      "fmt": "4:00PM EDT"
+    },
+    "regularMarketChangePercent": {
+      "raw": -1.1200322,
+      "fmt": "-1.12%"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0.005182213,
+      "fmt": "0.01%"
+    },
+    "quoteType": "EQUITY",
+    "fiftyTwoWeekLowChange": {
+      "raw": 53.28,
+      "fmt": "53.28"
+    },
+    "averageDailyVolume10Day": {
+      "raw": 64710550,
+      "fmt": "64.711M",
+      "longFmt": "64,710,550"
+    },
+    "fiftyTwoWeekHighChangePercent": {
+      "raw": -0.104827724,
+      "fmt": "-10.48%"
+    },
+    "typeDisp": "Equity",
+    "trailingPE": {
+      "raw": 30.127335,
+      "fmt": "30.13"
+    },
+    "tradeable": false,
+    "currency": "USD",
+    "preMarketPrice": {
+      "raw": 177.43,
+      "fmt": "177.43"
+    },
+    "sharesOutstanding": {
+      "raw": 15728700416,
+      "fmt": "15.729B",
+      "longFmt": "15,728,700,416"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 198.23,
+      "fmt": "198.23"
+    },
+    "regularMarketPreviousClose": {
+      "raw": 179.46,
+      "fmt": "179.46"
+    },
+    "exchangeTimezoneName": "America/New_York",
+    "bidSize": {
+      "raw": 10,
+      "fmt": "10",
+      "longFmt": "10"
+    },
+    "regularMarketChange": {
+      "raw": -2.0100098,
+      "fmt": "-2.01"
+    },
+    "priceEpsCurrentYear": {
+      "raw": 29.233936,
+      "fmt": "29.23"
+    },
+    "cryptoTradeable": false,
+    "fiftyDayAverage": {
+      "raw": 187.36,
+      "fmt": "187.36"
+    },
+    "epsCurrentYear": {
+      "raw": 6.07,
+      "fmt": "6.07"
+    },
+    "exchangeTimezoneShortName": "EDT",
+    "marketState": "PRE",
+    "regularMarketPrice": {
+      "raw": 177.45,
+      "fmt": "177.45"
+    },
+    "customPriceAlertConfidence": "HIGH",
+    "preMarketChange": {
+      "raw": -0.020004272,
+      "fmt": "-0.02"
+    },
+    "forwardPE": {
+      "raw": 26.845688,
+      "fmt": "26.85"
+    },
+    "earningsTimestamp": {
+      "raw": 1691096400,
+      "fmt": "2023-08-03",
+      "longFmt": "2023-08-03T17:00"
+    },
+    "ask": {
+      "raw": 177.73,
+      "fmt": "177.73"
+    },
+    "epsTrailingTwelveMonths": {
+      "raw": 5.89,
+      "fmt": "5.89"
+    },
+    "bid": {
+      "raw": 177.48,
+      "fmt": "177.48"
+    },
+    "priceToBook": {
+      "raw": 46.06698,
+      "fmt": "46.07"
+    },
+    "triggerable": true,
+    "longName": "Apple Inc."
+  },
+  "1": {
+    "symbol": "TSLA",
+    "twoHundredDayAverageChangePercent": {
+      "raw": 0.18477742,
+      "fmt": "18.48%"
+    },
+    "averageAnalystRating": "2.7 - Hold",
+    "fiftyTwoWeekLowChangePercent": {
+      "raw": 1.288184,
+      "fmt": "128.82%"
+    },
+    "language": "en-US",
+    "preMarketChangePercent": {
+      "raw": -1.7857158,
+      "fmt": "-1.79%"
+    },
+    "regularMarketDayRange": {
+      "raw": "232.61 - 240.5",
+      "fmt": "232.61 - 240.50"
+    },
+    "earningsTimestampEnd": {
+      "raw": 1698091200,
+      "fmt": "2023-10-23",
+      "longFmt": "2023-10-23T16:00"
+    },
+    "epsForward": {
+      "raw": 4.73,
+      "fmt": "4.73"
+    },
+    "regularMarketDayHigh": {
+      "raw": 240.5,
+      "fmt": "240.50"
+    },
+    "twoHundredDayAverageChange": {
+      "raw": 36.33235,
+      "fmt": "36.33"
+    },
+    "twoHundredDayAverage": {
+      "raw": 196.62766,
+      "fmt": "196.63"
+    },
+    "askSize": {
+      "raw": 8,
+      "fmt": "8",
+      "longFmt": "8"
+    },
+    "bookValue": {
+      "raw": 16.109,
+      "fmt": "16.11"
+    },
+    "fiftyTwoWeekHighChange": {
+      "raw": -80.83998,
+      "fmt": "-80.84"
+    },
+    "marketCap": {
+      "raw": 738366717952,
+      "fmt": "738.367B",
+      "longFmt": "738,366,717,952"
+    },
+    "fiftyTwoWeekRange": {
+      "raw": "101.81 - 313.8",
+      "fmt": "101.81 - 313.80"
+    },
+    "fiftyDayAverageChange": {
+      "raw": -26.0186,
+      "fmt": "-26.02"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 133136875,
+      "fmt": "133.137M",
+      "longFmt": "133,136,875"
+    },
+    "firstTradeDateMilliseconds": 1277818200000,
+    "exchangeDataDelayedBy": 0,
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "fiftyTwoWeekChangePercent": {
+      "raw": -23.367584,
+      "fmt": "-23.37%"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 101.81,
+      "fmt": "101.81"
+    },
+    "regularMarketVolume": {
+      "raw": 87546593,
+      "fmt": "87.547M",
+      "longFmt": "87,546,593"
+    },
+    "market": "us_market",
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "messageBoardId": "finmb_27444752",
+    "priceHint": 2,
+    "exchange": "NMS",
+    "sourceInterval": 15,
+    "regularMarketDayLow": {
+      "raw": 232.61,
+      "fmt": "232.61"
+    },
+    "shortName": "Tesla, Inc.",
+    "region": "US",
+    "fiftyDayAverageChangePercent": {
+      "raw": -0.100466214,
+      "fmt": "-10.05%"
+    },
+    "preMarketTime": {
+      "raw": 1692190212,
+      "fmt": "8:50AM EDT"
+    },
+    "fullExchangeName": "NasdaqGS",
+    "earningsTimestampStart": {
+      "raw": 1697572800,
+      "fmt": "2023-10-17",
+      "longFmt": "2023-10-17T16:00"
+    },
+    "financialCurrency": "USD",
+    "displayName": "Tesla",
+    "gmtOffSetMilliseconds": -14400000,
+    "regularMarketOpen": {
+      "raw": 238.73,
+      "fmt": "238.73"
+    },
+    "regularMarketTime": {
+      "raw": 1692129601,
+      "fmt": "4:00PM EDT"
+    },
+    "regularMarketChangePercent": {
+      "raw": -2.8361645,
+      "fmt": "-2.84%"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "quoteType": "EQUITY",
+    "fiftyTwoWeekLowChange": {
+      "raw": 131.15001,
+      "fmt": "131.15"
+    },
+    "averageDailyVolume10Day": {
+      "raw": 100271410,
+      "fmt": "100.271M",
+      "longFmt": "100,271,410"
+    },
+    "fiftyTwoWeekHighChangePercent": {
+      "raw": -0.25761625,
+      "fmt": "-25.76%"
+    },
+    "typeDisp": "Equity",
+    "trailingPE": {
+      "raw": 75.63637,
+      "fmt": "75.64"
+    },
+    "tradeable": false,
+    "currency": "USD",
+    "preMarketPrice": {
+      "raw": 228.8,
+      "fmt": "228.80"
+    },
+    "sharesOutstanding": {
+      "raw": 3169499904,
+      "fmt": "3.169B",
+      "longFmt": "3,169,499,904"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 313.8,
+      "fmt": "313.80"
+    },
+    "regularMarketPreviousClose": {
+      "raw": 239.76,
+      "fmt": "239.76"
+    },
+    "exchangeTimezoneName": "America/New_York",
+    "bidSize": {
+      "raw": 13,
+      "fmt": "13",
+      "longFmt": "13"
+    },
+    "regularMarketChange": {
+      "raw": -6.799988,
+      "fmt": "-6.80"
+    },
+    "priceEpsCurrentYear": {
+      "raw": 67.72093,
+      "fmt": "67.72"
+    },
+    "cryptoTradeable": false,
+    "fiftyDayAverage": {
+      "raw": 258.9786,
+      "fmt": "258.98"
+    },
+    "epsCurrentYear": {
+      "raw": 3.44,
+      "fmt": "3.44"
+    },
+    "exchangeTimezoneShortName": "EDT",
+    "marketState": "PRE",
+    "regularMarketPrice": {
+      "raw": 232.96,
+      "fmt": "232.96"
+    },
+    "customPriceAlertConfidence": "HIGH",
+    "preMarketChange": {
+      "raw": -4.1600037,
+      "fmt": "-4.16"
+    },
+    "forwardPE": {
+      "raw": 49.251587,
+      "fmt": "49.25"
+    },
+    "earningsTimestamp": {
+      "raw": 1689802200,
+      "fmt": "2023-07-19",
+      "longFmt": "2023-07-19T17:30"
+    },
+    "ask": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "epsTrailingTwelveMonths": {
+      "raw": 3.08,
+      "fmt": "3.08"
+    },
+    "bid": {
+      "raw": 227.81,
+      "fmt": "227.81"
+    },
+    "priceToBook": {
+      "raw": 14.461482,
+      "fmt": "14.46"
+    },
+    "triggerable": true,
+    "longName": "Tesla, Inc."
+  },
+  "2": {
+    "symbol": "BRK-B",
+    "twoHundredDayAverageChangePercent": {
+      "raw": 0.10969445,
+      "fmt": "10.97%"
+    },
+    "averageAnalystRating": "2.7 - Hold",
+    "fiftyTwoWeekLowChangePercent": {
+      "raw": 0.36424857,
+      "fmt": "36.42%"
+    },
+    "language": "en-US",
+    "preMarketChangePercent": {
+      "raw": -0.08462279,
+      "fmt": "-0.08%"
+    },
+    "regularMarketDayRange": {
+      "raw": "353.67 - 357.92",
+      "fmt": "353.67 - 357.92"
+    },
+    "earningsTimestampEnd": {
+      "raw": 1699363800,
+      "fmt": "2023-11-07",
+      "longFmt": "2023-11-07T08:30"
+    },
+    "epsForward": {
+      "raw": 18.23,
+      "fmt": "18.23"
+    },
+    "regularMarketDayHigh": {
+      "raw": 357.92,
+      "fmt": "357.92"
+    },
+    "twoHundredDayAverageChange": {
+      "raw": 35.042694,
+      "fmt": "35.04"
+    },
+    "twoHundredDayAverage": {
+      "raw": 319.4573,
+      "fmt": "319.46"
+    },
+    "askSize": {
+      "raw": 9,
+      "fmt": "9",
+      "longFmt": "9"
+    },
+    "bookValue": {
+      "raw": 372853.3,
+      "fmt": "372,853.31"
+    },
+    "fiftyTwoWeekHighChange": {
+      "raw": -10.130005,
+      "fmt": "-10.13"
+    },
+    "marketCap": {
+      "raw": 774678249472,
+      "fmt": "774.678B",
+      "longFmt": "774,678,249,472"
+    },
+    "fiftyTwoWeekRange": {
+      "raw": "259.85 - 364.63",
+      "fmt": "259.85 - 364.63"
+    },
+    "fiftyDayAverageChange": {
+      "raw": 10.371002,
+      "fmt": "10.37"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 3319164,
+      "fmt": "3.319M",
+      "longFmt": "3,319,164"
+    },
+    "firstTradeDateMilliseconds": 831648600000,
+    "exchangeDataDelayedBy": 0,
+    "trailingAnnualDividendRate": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "fiftyTwoWeekChangePercent": {
+      "raw": 16.512192,
+      "fmt": "16.51%"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 259.85,
+      "fmt": "259.85"
+    },
+    "regularMarketVolume": {
+      "raw": 2805419,
+      "fmt": "2.805M",
+      "longFmt": "2,805,419"
+    },
+    "market": "us_market",
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "messageBoardId": "finmb_255251",
+    "priceHint": 2,
+    "exchange": "NYQ",
+    "sourceInterval": 15,
+    "regularMarketDayLow": {
+      "raw": 353.67,
+      "fmt": "353.67"
+    },
+    "shortName": "Berkshire Hathaway Inc. New",
+    "region": "US",
+    "fiftyDayAverageChangePercent": {
+      "raw": 0.030136961,
+      "fmt": "3.01%"
+    },
+    "preMarketTime": {
+      "raw": 1692190164,
+      "fmt": "8:49AM EDT"
+    },
+    "fullExchangeName": "NYSE",
+    "earningsTimestampStart": {
+      "raw": 1699018200,
+      "fmt": "2023-11-03",
+      "longFmt": "2023-11-03T09:30"
+    },
+    "financialCurrency": "USD",
+    "gmtOffSetMilliseconds": -14400000,
+    "regularMarketOpen": {
+      "raw": 357,
+      "fmt": "357.00"
+    },
+    "regularMarketTime": {
+      "raw": 1692129834,
+      "fmt": "4:03PM EDT"
+    },
+    "regularMarketChangePercent": {
+      "raw": -1.1102463,
+      "fmt": "-1.11%"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "quoteType": "EQUITY",
+    "fiftyTwoWeekLowChange": {
+      "raw": 94.649994,
+      "fmt": "94.65"
+    },
+    "averageDailyVolume10Day": {
+      "raw": 3253160,
+      "fmt": "3.253M",
+      "longFmt": "3,253,160"
+    },
+    "fiftyTwoWeekHighChangePercent": {
+      "raw": -0.0277816,
+      "fmt": "-2.78%"
+    },
+    "typeDisp": "Equity",
+    "trailingPE": {
+      "raw": 104.2647,
+      "fmt": "104.26"
+    },
+    "tradeable": false,
+    "currency": "USD",
+    "preMarketPrice": {
+      "raw": 354.2,
+      "fmt": "354.20"
+    },
+    "sharesOutstanding": {
+      "raw": 1309660032,
+      "fmt": "1.31B",
+      "longFmt": "1,309,660,032"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 364.63,
+      "fmt": "364.63"
+    },
+    "regularMarketPreviousClose": {
+      "raw": 358.48,
+      "fmt": "358.48"
+    },
+    "exchangeTimezoneName": "America/New_York",
+    "bidSize": {
+      "raw": 14,
+      "fmt": "14",
+      "longFmt": "14"
+    },
+    "regularMarketChange": {
+      "raw": -3.980011,
+      "fmt": "-3.98"
+    },
+    "priceEpsCurrentYear": {
+      "raw": 20.59849,
+      "fmt": "20.60"
+    },
+    "cryptoTradeable": false,
+    "fiftyDayAverage": {
+      "raw": 344.129,
+      "fmt": "344.13"
+    },
+    "epsCurrentYear": {
+      "raw": 17.21,
+      "fmt": "17.21"
+    },
+    "exchangeTimezoneShortName": "EDT",
+    "marketState": "PRE",
+    "regularMarketPrice": {
+      "raw": 354.5,
+      "fmt": "354.50"
+    },
+    "customPriceAlertConfidence": "HIGH",
+    "preMarketChange": {
+      "raw": -0.2999878,
+      "fmt": "-0.30"
+    },
+    "forwardPE": {
+      "raw": 19.445969,
+      "fmt": "19.45"
+    },
+    "ask": {
+      "raw": 356.34,
+      "fmt": "356.34"
+    },
+    "epsTrailingTwelveMonths": {
+      "raw": 3.4,
+      "fmt": "3.40"
+    },
+    "bid": {
+      "raw": 354.32,
+      "fmt": "354.32"
+    },
+    "priceToBook": {
+      "raw": 0.00095077604,
+      "fmt": "0.00"
+    },
+    "triggerable": true,
+    "longName": "Berkshire Hathaway Inc."
+  }
+}
